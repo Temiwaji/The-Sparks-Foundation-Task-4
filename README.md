@@ -5,3 +5,4 @@ Exploratory Data Analysis (EDA) is a method for better understanding your data a
 This project extracts, cleans, analysis and visualizes the dataset of global terrorism.
 The link to the dataset used in this task was obtained from https://bit.ly/2TK5Xn5
 Ms Excel was used in analysis and and a dashboard was created for the visualization of the dataset. 
+The Excel workbook and a powerpoint visualization have also been attached.
